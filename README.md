@@ -20,7 +20,7 @@ As seguintes exceções devem ser tratadas:
     - Nome: não pode ser vazio;
     - Data de nascimento: não pode ser data futura;
  ## Modelo conceitual da classe
- (aqui vai a imagem)
+ ![Classe Client](https://github.com/anderson-aguiar/desafioCRUD/blob/main/assets/clientjpg.jpg)
  
  ## Tecnologias utilizadas
  - Java
@@ -33,25 +33,29 @@ As seguintes exceções devem ser tratadas:
  #Buscar cliente por id
  GET /clients/1
  ```
- (aqui vai uma imagem)
+ ![GET by id](https://github.com/anderson-aguiar/desafioCRUD/blob/main/assets/get-by-id.jpg)
  
  ```http
  #Busca paginada de clientes
  GET /clients?page=0&size=3&sort=name
  ```
- (aqui vai outra imagem)
+ ![GET pageable](https://github.com/anderson-aguiar/desafioCRUD/blob/main/assets/get-pageable.jpg)
  ```http
  #Inserção de novo cliente
  POST /clients
  ```
- (aqui vai outra imagem)
+ ![POST new client](https://github.com/anderson-aguiar/desafioCRUD/blob/main/assets/post-client.jpg)
  ```http
  #Atualização de  cliente
- POST /clients/1
+ PUT /clients/1
  ```
- (aqui vai outra imagem)
+ ![PUT client](https://github.com/anderson-aguiar/desafioCRUD/blob/main/assets/put-client.jpg)
  ```http
  #Deleção de cliente
- POST /clients/1
+ DEL /clients/1
  ```
- (aqui vai outra imagem)
+ ![DELETE client](https://github.com/anderson-aguiar/desafioCRUD/blob/main/assets/delete-client.jpg)
+ 
+ ## Autor
+ ### Anderson Martins
+ [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-martins-0a062810b)
