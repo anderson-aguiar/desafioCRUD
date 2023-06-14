@@ -52,7 +52,7 @@ As seguintes exceções devem ser tratadas:
  ![PUT client](https://github.com/anderson-aguiar/desafioCRUD/blob/main/assets/put-client.jpg)
  ```http
  #Deleção de cliente
- DEL /clients/1
+ DELETE /clients/1
  ```
  ![DELETE client](https://github.com/anderson-aguiar/desafioCRUD/blob/main/assets/delete-client.jpg)
  
