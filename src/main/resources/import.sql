@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Anderson Martins', '72622758600', 3000.00, '1989-06-10', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Carlos Santos', '93915537535', 2000.00, '1999-06-10', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria Jesus', '97806352465', 4000.00, '1988-10-11', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Tais Vilela', '16606058490', 3500.00, '1991-10-31', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Anabelly Vilela', '57576484730', 1000.00, '2000-05-31', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Klebson Aguiar', '47597032927', 3800.00, '1987-02-25', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Fernando Souza', '14572955638', 1700.00, '1964-08-21', 4);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Thelma Faria', '31108838804', 3900.00, '1979-03-10', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Analara Martins', '50487078420', 3000.00, '2001-12-21', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Ana Cecília Vilela', '26475868027', 5000.00, '2002-06-27', 0);
