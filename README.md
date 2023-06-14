@@ -46,7 +46,7 @@ As seguintes exceções devem ser tratadas:
  ```
  ![POST new client](https://github.com/anderson-aguiar/desafioCRUD/blob/main/assets/post-client.jpg)
  ```http
- #Atualização de  cliente
+ #Atualização de cliente
  PUT /clients/1
  ```
  ![PUT client](https://github.com/anderson-aguiar/desafioCRUD/blob/main/assets/put-client.jpg)
