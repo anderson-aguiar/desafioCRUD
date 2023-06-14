@@ -25,7 +25,6 @@ As seguintes exceções devem ser tratadas:
  ## Tecnologias utilizadas
  - Java
  - Spring Boot
- - JPA / Hibernate
  - Maven
  - H2
  ## Testes manuais no Postman
