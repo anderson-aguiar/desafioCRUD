@@ -18,7 +18,7 @@ public class ClientDTO {
 	@Positive(message = "Valor deve ser positivo")
 	private Double income;
 	
-	@PastOrPresent(message = "Data inferior a data atual")
+	@PastOrPresent(message = "A data deve ser inferior a data atual")
 	private LocalDate birthDate;
 	
 	private Integer children;
