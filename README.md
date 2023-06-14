@@ -1,5 +1,5 @@
 # DESAFIO: CRUD de clientes
-[![NPM](https://img.shields.io/npm/l/react)]()
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/anderson-aguiar/desafioCRUD/blob/main/LICENSE)
 
 ## Sobre o projeto
 Desafio desenvolvido como parte de aprovação no curso Formação Desenvolvedor Moderno da escola [DevSuperior](https://devsuperior.com "Site da DevSuperior").
